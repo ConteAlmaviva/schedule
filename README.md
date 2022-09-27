@@ -1,0 +1,1 @@
+This is a simple addon to display next arrival and departure times for ferries and airships, similar to the MithraPride and Pyogenes FFXI timers. (It does not include RSE or crafting shop holidays as of yet.)
